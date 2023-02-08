@@ -7,7 +7,7 @@ Randomly generated bubbles in Java Processing.
 
 Assignment was to generate a pattern using loops. I kinda went past the mark.
 
-There are some toggleable settings in the main file. Setting clickable to true makes the project pauseable on any frame by clicking in the window.
+There are some toggleable settings in the main file. Setting clickable to true makes the project pauseable on any frame by clicking in the window. There are a few other editable variables as well if you are adventurous!
 
 See Process Book PDF for more information.
 
